@@ -1,0 +1,3 @@
+[submodule "EDUCATApp"]
+	path = EDUCATApp
+	url = https://github.com/MathieuT-dot/EDUCATApp.git
