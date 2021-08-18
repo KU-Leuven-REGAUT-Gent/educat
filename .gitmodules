@@ -1,6 +1,9 @@
 [submodule "EDUCATApp"]
 	path = EDUCATApp
 	url = https://github.com/MathieuT-dot/EDUCATApp.git
+[submodule "RegautAndroidLibrary"]
+	path = RegautAndroidLibrary
+	url = https://github.com/MathieuT-dot/RegautAndroidLibrary.git
 [submodule "laravel_framework"]
 	path = laravel_framework
 	url = https://github.com/DimitriDeSchuyter/educat_laravel_framework.git
