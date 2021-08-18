@@ -7,3 +7,6 @@
 [submodule "laravel_framework"]
 	path = laravel_framework
 	url = https://github.com/DimitriDeSchuyter/educat_laravel_framework.git
+[submodule "educat_laravel_framework"]
+	path = educat_laravel_framework
+	url = https://github.com/DimitriDeSchuyter/educat_laravel_framework.git
