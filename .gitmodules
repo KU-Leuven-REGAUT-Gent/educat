@@ -10,3 +10,6 @@
 [submodule "educat_laravel_framework"]
 	path = educat_laravel_framework
 	url = https://github.com/DimitriDeSchuyter/educat_laravel_framework.git
+[submodule "EDUCAT-Data-Visualization"]
+	path = EDUCAT-Data-Visualization
+	url = https://github.com/DimitriDeSchuyter/EDUCAT-Data-Visualization.git
